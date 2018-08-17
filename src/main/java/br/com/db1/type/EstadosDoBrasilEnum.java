@@ -24,9 +24,7 @@ private String regiao;
 	}
 	public String regiao(){
 		return regiao;
-	}
-	
-	
+	}	
 	
 }
 

@@ -80,6 +80,9 @@ public class Endereco {
 
 
 	public String formataCep(){
-		
+		String newCep = Integer.toString(cep);
+		return newCep.substring(0, 4) + "." + newCep.substring(4);
+
+
 	}
 }

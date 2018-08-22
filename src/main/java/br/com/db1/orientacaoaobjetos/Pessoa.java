@@ -1,11 +1,16 @@
 package br.com.db1.orientacaoaobjetos;
 
+import java.util.ArrayList;
 import java.util.List;
 
 public class Pessoa {
 	private String nome;
 	private Endereco endereco;
 	private List<Telefone> telefones;
+	
+public Pessoa(){
+	this.telefones = new ArrayList<Telefone>();
+}
 	
 	public String getNome() {
 		return nome;
@@ -22,8 +27,9 @@ public class Pessoa {
 	public List<Telefone> getTelefones() {
 		return telefones;
 	}
-	public void setTelefones(List<Telefone> telefones) {
-		this.telefones = telefones;
+
+	public void addTelefone(Telefone telefone){
+		this.telefones.add(telefone);
 	}
 	
 

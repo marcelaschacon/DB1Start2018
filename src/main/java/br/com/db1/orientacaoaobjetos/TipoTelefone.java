@@ -1,4 +1,4 @@
-package br.com.db1.type;
+package br.com.db1.orientacaoaobjetos;
 
 public enum TipoTelefone {
 	COMERCIAL, 

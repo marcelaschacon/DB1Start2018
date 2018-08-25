@@ -1,6 +1,4 @@
-package br.com.db1;
-
-import br.com.db1.type.TipoLogradouro;
+package br.com.db1.exenumlogradouro;
 
 public class ExemploEnum {
 	public static void main(String[] args) {

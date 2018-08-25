@@ -1,7 +1,6 @@
 package br.com.db1.orientacaoaobjetos;
 
-import br.com.db1.type.TipoLogradouro;
-import br.com.db1.type.Uf;
+import br.com.db1.exenumlogradouro.TipoLogradouro;
 
 public class Endereco {
 	private TipoLogradouro tipoLogradouro; 

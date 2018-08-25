@@ -1,7 +1,5 @@
 package br.com.db1.orientacaoaobjetos;
 
-import br.com.db1.type.TipoTelefone;
-
 public class Telefone {
 	private Integer ddd, numero;
 	

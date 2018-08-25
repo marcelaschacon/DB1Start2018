@@ -1,7 +1,5 @@
 package br.com.db1.orientacaoaobjetos;
 
-import br.com.db1.type.Uf;
-
 public class Cidade {
 	private String nome;
 	

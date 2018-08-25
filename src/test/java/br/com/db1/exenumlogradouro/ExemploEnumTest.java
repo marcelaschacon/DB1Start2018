@@ -1,8 +1,10 @@
-package br.com.db1.type;
+package br.com.db1.exenumlogradouro;
 
 import static org.junit.Assert.*;
 
 import org.junit.Test;
+
+import br.com.db1.exenumlogradouro.TipoLogradouro;
 
 public class ExemploEnumTest {
 

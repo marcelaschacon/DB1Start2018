@@ -1,4 +1,4 @@
-package br.com.db1;
+package br.com.db1.aula06;
 
 import static org.junit.Assert.*;
 
@@ -9,6 +9,8 @@ import java.util.List;
 import junit.framework.Assert;
 
 import org.junit.Test;
+
+import br.com.db1.aula06.ExerciciosAula06;
 
 
 public class ExerciciosAula06Test {

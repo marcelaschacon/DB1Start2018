@@ -1,4 +1,4 @@
-package br.com.db1;
+package br.com.db1.aula06;
 
 import java.util.ArrayList;
 import java.util.Collections;

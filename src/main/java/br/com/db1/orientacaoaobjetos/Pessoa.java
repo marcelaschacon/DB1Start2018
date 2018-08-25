@@ -29,7 +29,7 @@ public Pessoa(){
 	}
 
 	public void addTelefone(Telefone telefone){
-		this.telefones.add(telefone);
+		telefones.add(telefone);
 	}
 	
 

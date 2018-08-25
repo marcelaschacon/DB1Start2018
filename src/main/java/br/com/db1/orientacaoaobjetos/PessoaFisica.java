@@ -16,7 +16,7 @@ public class PessoaFisica extends Pessoa {
 	}
 	
 	public Boolean validadorCpf(){
-		return true;	
+		return Boolean.TRUE;	
 	}
 
 }

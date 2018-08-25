@@ -16,7 +16,7 @@ public class PessoaJuridica extends Pessoa {
 	}
 	
 	public Boolean validadorCnpj(){
-		return true;	
+		return Boolean.TRUE;	
 	}
 
 }
